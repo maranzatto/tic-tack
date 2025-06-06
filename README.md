@@ -108,7 +108,6 @@ Uma aplicação React moderna e minimalista que funciona como um temporizador mu
   - Gerenciamento de estado persistente entre mudanças de modo
   
 - **Feedback Visual**
-  - Fundo dinâmico baseado no estado da aplicação
   - Números em verde quando pares no modo contador
   - Interface limpa e moderna com ícones SVG
   - Design responsivo para todos os tamanhos de tela
